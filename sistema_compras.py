@@ -69,8 +69,6 @@ class Inventario:
             prenda.mostrar_info()
 
     def procesar_compra(self):
-        # Aquí puedes implementar la lógica para procesar la compra,
-        # como calcular el total, aplicar descuentos, etc.
         print("¡Compra procesada con éxito!")
 
        
